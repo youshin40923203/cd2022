@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-21T14:05:06+08:00</updated><entry><title>w7</title><link href="./w7_40923203.html" rel="alternate"></link><published>2022-04-21T13:46:00+08:00</published><updated>2022-04-21T14:05:06+08:00</updated><author><name>youshin40923203</name></author><id>tag:None,2022-04-21:./w7_40923203.html</id><summary type="html">&lt;p&gt;2022  Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-21T14:17:54+08:00</updated><entry><title>w7</title><link href="./w7_40923203.html" rel="alternate"></link><published>2022-04-21T13:46:00+08:00</published><updated>2022-04-21T14:17:54+08:00</updated><author><name>youshin40923203</name></author><id>tag:None,2022-04-21:./w7_40923203.html</id><summary type="html">&lt;p&gt;2022  Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022  Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 
 
 &lt;h2&gt;軟體分配&lt;/h2&gt;
-&lt;p&gt;NX12
-NX1980
-NX2008
-Slovespace
-Onshape&lt;/p&gt;
-&lt;h2&gt;各週進度&lt;/h2&gt;
-&lt;p&gt;W2任務:列出分組名條&lt;a href="https://youshin40923203.github.io/cd2022/content/Group.html"&gt;網站連結&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;W3任務&lt;/p&gt;
+&lt;p&gt;NX12:
+NX1980:
+NX2008:
+Slovespace:
+Onshape:&lt;/p&gt;
+&lt;h2&gt;W2任務:列出分組名條&lt;a href="https://youshin40923203.github.io/cd2022/content/Group.html"&gt;網站連結&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;W3任務&lt;/h2&gt;
 &lt;p&gt;將老師指定的38個教學影片分配&lt;/p&gt;
 &lt;p&gt;40823215 影片1~5&lt;/p&gt;
 &lt;p&gt;40923203 &lt;a href="https://40923240.github.io/cd2022bg2/content/40923203.html"&gt;影片 6~9&lt;/a&gt;&lt;/p&gt;
@@ -21,11 +20,11 @@ Onshape&lt;/p&gt;
 &lt;p&gt;40923213 影片24~28&lt;/p&gt;
 &lt;p&gt;40923220 影片29~33&lt;/p&gt;
 &lt;p&gt;40923240 &lt;a href="https://40923240.github.io/cd2022bg2/content/40923240.html"&gt;影片34~38&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;W4任務&lt;/p&gt;
+&lt;h2&gt;W4任務&lt;/h2&gt;
 &lt;p&gt;報告W2~W3成果&lt;/p&gt;
-&lt;p&gt;W5任務&lt;/p&gt;
+&lt;h2&gt;W5任務&lt;/h2&gt;
 &lt;p&gt;clone組長大倉儲，定期同步兩邊資料&lt;/p&gt;
-&lt;p&gt;W6任務&lt;/p&gt;
+&lt;h2&gt;W6任務&lt;/h2&gt;
 &lt;p&gt;建立個人blog&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923203.html" rel="alternate"></link><published>2022-03-31T15:11:00+08:00</published><updated>2022-03-31T16:35:36+08:00</updated><author><name>youshin40923203</name></author><id>tag:None,2022-03-31:./w6_40923203.html</id><summary type="html">&lt;p&gt;2022  Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022  Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 
