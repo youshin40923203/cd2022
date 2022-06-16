@@ -5,7 +5,8 @@
 <p>課程倉儲:<span> </span><a href="https://github.com/mdecourse/cd2022">https://github.com/mdecourse/cd2022</a></p>
 <p>課程規劃與作業:<span> </span><a href="https://github.com/mdecourse/cd2022/discussions">https://github.com/mdecourse/cd2022/discussions</a></p>
 <p>課程討論區:<span> </span><a href="https://gitter.im/mdecourse/cd2022">https://gitter.im/mdecourse/cd2022</a></p>
-<p>課程導引:<span> </span><a href="https://mde.tw/cd2022_guide">https://mde.tw/cd2022_guide</a></p><h1>Group</h1>
+<p>課程導引:<span> </span><a href="https://mde.tw/cd2022_guide">https://mde.tw/cd2022_guide</a></p>
+<h1>Group</h1>
 <p><img alt="" height="200" src="/images/1.png" width="440"/></p>
 <p>點選 <strong>About </strong>&gt; <strong>Grouping</strong></p>
 <p><strong><img alt="" height="200" src="/images/2.png" width="240"/></strong></p>
@@ -60,7 +61,21 @@
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="498" src="https://www.youtube.com/embed/CXlrnKFicbg" title="YouTube video player" width="885"></iframe></p>
 <h2>H2</h2>
 <h3>w10_block_ui</h3>
-<h3>w10_nx_integ</h3>
+<script>
+// 在 Javascript 標註內以兩個斜線加入單行註解
+// 每一個影片要有獨特的 data-varname 變數名稱
+var winkVideoData_w10_block_ui = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+</script>
+<!-- 將 mp4 檔案從 downloads 目錄取出 -->
+<div class="winkVideoContainerClass" style="border: thin solid black; padding: 10px;"><video autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="./../cmsimde/static" data-varname="winkVideoData_w10_block_ui" height="100%" muted="true" width="100%">
+<source src="./../downloads/w10_block_ui.mp4" type="video/mp4"/></video></div><h3>w10_nx_integ</h3>
 <h3>w10_ssh</h3>
 <h1>各週任務</h1>
 <h2>軟體分配</h2>
@@ -141,8 +156,61 @@ var winkVideoData_wink1 = {
 <p></p>
 <p>三角形連桿:</p>
 <p><img alt="" height="344" src="/images/三角形連桿.png" width="496"/></p>
-<h2>W12</h2>
-<h1>Online</h1>
+<h2>W12任務</h2>
+<p>1.<a href="https://mde.tw/cd2022_guide/downloads/cd2022_uarm_nx12_imported.7z">cd2022_uarm_nx12_imported.7z</a><span> </span>中, 若計入重複引用的零件, 總數有多少?  Ans:108個 </p>
+<p>  請列出組成此一 uarm 機械手臂所需的 BOM 列表</p>
+<p>2.若不計入重複引用的零件, 總數有多少? 請列出各零件名稱.Ans:36個</p>
+<p>  M4X7 平头螺丝 /M2X4螺丝 /MF84 /M3X4 内六角圆头螺丝 /M4X5 顶丝 /M4X10 平头螺丝 /末端连杆/ 3mm铝支撑柱 /M3X5 沉头螺丝 /M3X5 平头螺丝 /M3X5 扁平头铁镀镍螺丝 /前端通用件 /42+ 1：4.5减速箱（左右两侧）/ M4X6 沉头螺丝/底盖装配体 /末端PCB/ M4X15 平头螺丝 /42+ 1：4.5减速箱（左右两侧）/ L型连接件（一体化）/ 左侧连杆/ 三角形连杆轴承压紧件 /主臂关节2 /4mm铝支撑柱 /前端关节/ 47X30X9 轴承/ 电机轴承支撑座（右侧） /主臂关节1/ M3X5 内六角圆头螺丝/ 铰链 /电机轴承支撑座（左侧）/ M3X5 圆头黑色十字螺丝 /右侧连杆 /轴承支撑轴 /主臂关节2贴纸（Pro）/ 7mm 支撑柱 /右侧曲柄 /三角形连杆</p><h2>W16任務</h2>
+<p>1.已知左側綠色底座的 uArm 機械手臂, 其基座座標原點位於絕對座標 (1.0, 0.25, 0), 啟動模擬後 green_suctionpad_frame 座標原點則位於 (0.22859, 0.26047, 0.36576), 請列出運算式說明, 啟動模擬後 joint1, joint2 與 joint3 分別以逆時針旋轉 5 度後, 求 green_suctionpad_frame 的絕對座標值.</p>
+<p>ans:X=(+1.0000)、Y=(+0.2500)、Z=(+0.1795)</p>
+<p></p>
+<script>
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData" height="650" video="" width="1314">
+<source src="./../downloads/w16 final exam1.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>2.已知左側 uarm 前方的紅色方塊頂端中心座標值為 (0.2, 0.4, 0.1), 請列出運算式說明左側 uarm 機械手臂的 joint1, joint2 與 joint3 該如何旋轉才能讓 end effector 的吸盤末端中心點移動至紅色方塊頂端中心?</p>
+<p>ans:joint1:-9、joint2=-22、joint3=-14</p>
+<p></p>
+<script>
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData" height="650" video="" width="1314">
+<source src="./../downloads/w16 final exam2.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div><h1>Online</h1>
 <p><span>Onshape繪工程圖:</span><a href="https://cad.onshape.com/documents/309b28315309abc1ab3c36b2/w/75192d99938e06de6579ecc0/e/96aa3639aad06f5ce8acd099">https://cad.onshape.com</a></p>
 <p>Onshape繪零件圖:<a href="https://cad.onshape.com/documents/4c06a21d2201db4abc010f53/w/f5a51d23d8086b5c4ad5820e/e/5810be33055f63391393ec96">https://cad.onshape.com/documents</a></p>
 <p>前端通用件:</p>
